@@ -10,3 +10,6 @@ git status
 
     ## List all branches
 git branch
+
+    ## Return to the main branch
+git checkout main
