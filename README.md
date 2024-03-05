@@ -16,3 +16,6 @@ git checkout main
 
     ## Merge the feature1 branch into the main branch
 git merge feature1
+
+    ## Delete a branch
+git push origin --delete feature1
